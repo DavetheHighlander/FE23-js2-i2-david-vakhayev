@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, sans-serif;
+}
+.board {
+    display: flex;
+}
+.column {
+    flex: 1;
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+}
+.column h2 {
+    text-align: center;
+}
+.card {
+    margin: 5px 0;
+    padding: 10px;
+    background-color: black;
+    border: 1px solid #ddd;
+    color: white;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.card:hover {
+    background-color: #f0f0f0;
+}

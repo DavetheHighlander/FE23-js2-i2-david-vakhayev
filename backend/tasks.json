@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "column": "done",
+    "content": "sdfsdfs",
+    "color": "#ff0000",
+    "assignedName": ""
+  },
+  {
+    "id": 8,
+    "column": "done",
+    "content": "eegefge",
+    "color": "#ff0000",
+    "assignedName": "fsdfds"
+  },
+  {
+    "id": 5,
+    "column": "todo",
+    "content": "sfdsfsd",
+    "color": "#00ff00",
+    "assignedName": ""
+  }
+]
